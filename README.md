@@ -6,8 +6,10 @@ Müasir və interaktiv riyaziyyat testi sistemi - Google Sheets inteqrasiyası i
 
 ## 🚀 Canlı Demo
 
-- **🎯 Test Keç**: [https://SİZİN_USERNAME.github.io/riyaziyyat-testi/](https://SİZİN_USERNAME.github.io/riyaziyyat-testi/)
-- **📊 Nəticələr Dashboard**: [https://SİZİN_USERNAME.github.io/riyaziyyat-testi/dashboard.html](https://SİZİN_USERNAME.github.io/riyaziyyat-testi/dashboard.html)
+- **🎯 Test Keç**: [https://ttariyel-1954.github.io/riyaziyyat-testi/![image](https://github.com/user-attachments/assets/6f245eff-a213-451c-996e-0fede16a243c)
+)
+- **📊 Nəticələr Dashboard**: [https://ttariyel-1954.github.io/riyaziyyat-testi/dashboard.html![image](https://github.com/user-attachments/assets/3f4453eb-face-4843-985c-7dec7529c1f0)
+](https://SİZİN_USERNAME.github.io/riyaziyyat-testi/dashboard.html)
 
 ## ✨ Xüsusiyyətlər
 
